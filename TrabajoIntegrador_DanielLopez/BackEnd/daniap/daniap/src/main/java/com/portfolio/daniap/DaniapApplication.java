@@ -1,13 +1,13 @@
-package com.portfolio.apdani;
+package com.portfolio.daniap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApdaniApplication {
+public class DaniapApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApdaniApplication.class, args);
+		SpringApplication.run(DaniapApplication.class, args);
 	}
 
 }
